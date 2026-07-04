@@ -1,12 +1,7 @@
 # Image Captioning App
 
-Small Streamlit demo app for Chest X-ray image caption generation.
-
-This app was created to demonstrate one of the best-performing model variants from the MSc project:
-
-**ViT-SCL-ITP + GPT-2**
-
-The app allows users to upload a chest X-ray image and generate a caption using the trained model.
+Small Streamlit demo app for Chest X-ray image caption generation. This app was created to demonstrate one of the best-performing model variants from the MSc project: **ViT-SCL-ITP + GPT-2**
+Allows users to upload a chest X-ray image and generate a caption using the trained model.
 
 ---
 
