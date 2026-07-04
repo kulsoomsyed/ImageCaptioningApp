@@ -52,6 +52,8 @@ Upload and Test Images
 - Access requires a PhysioNet account and completion of the required training/course.
 - Full dataset is not included in this repository.
 
+---
+
 ## NOTE
 This repository only contains the Streamlit demo app. The full experimental codes, model variants, generated CSV files, and evaluation notebooks are available here:
 https://github.com/kulsoomsyed/SCLDIPCXR
@@ -65,6 +67,8 @@ Different model variant folders
 In the pre-executed experiments, the original split used:
 4057 training images
 50 test images
+
+---
 
 ## Repository Structure
 
